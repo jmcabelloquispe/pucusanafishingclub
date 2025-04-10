@@ -2,13 +2,14 @@
   "home": {
     "title": "Bienvenido a Pucusana Fishing Club"
   },
-  "about": {
-    "title": "Sobre Nosotros"
+  "nav": {
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "contact": "Contáctanos"
   },
-  "services": {
-    "title": "Nuestros Servicios"
-  },
-  "contact": {
-    "title": "Contáctanos"
+  "hero": {
+    "title": "Explora la pesca deportiva en Pucusana",
+    "subtitle": "Vive una experiencia inolvidable en el mar peruano.",
+    "button": "Reserva tu expedición"
   }
 }
