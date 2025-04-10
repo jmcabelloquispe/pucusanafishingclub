@@ -1,11 +1,12 @@
-import { useTranslations } from "next-intl";
-
+import {useTranslations} from 'next-intl';
+import {Link} from '@/i18n/navigation';
+ 
 export default function HomePage() {
-  // const t = useTranslations("home");
-
+  const t = useTranslations('home');
   return (
-    <section className="p-10">
-      {/* <h1 className="text-3xl font-bold">{t("title")}</h1> */}
-    </section>
+    <div>
+      <h1>{t('title')}</h1>
+      <Link href="/home">{t('title')}</Link>
+    </div>
   );
 }

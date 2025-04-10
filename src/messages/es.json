@@ -1,6 +1,14 @@
 {
-  "home.title": "Bienvenido a Pucusana Fishing Club",
-  "about.title": "Sobre Nosotros",
-  "services.title": "Nuestros Servicios",
-  "contact.title": "Contáctanos"
+  "home": {
+    "title": "Bienvenido a Pucusana Fishing Club"
+  },
+  "about": {
+    "title": "Sobre Nosotros"
+  },
+  "services": {
+    "title": "Nuestros Servicios"
+  },
+  "contact": {
+    "title": "Contáctanos"
+  }
 }
